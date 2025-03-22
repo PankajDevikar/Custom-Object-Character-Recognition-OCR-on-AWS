@@ -1,0 +1,5 @@
+train: C:\data science material\Project_10\yolov3\dataset\images
+val: C:\data science material\Project_10\yolov3\dataset\images
+
+nc: 1  
+names: ["text"]  # Class names
